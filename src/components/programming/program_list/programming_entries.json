@@ -1,0 +1,35 @@
+[{
+    "title": "Image compression and decompression",
+    "tag": "Performs various rotational operations on a given image",
+    "description": "This program rotates the provided image. It is designed to use two different data structures to store the image and perform the translations; either a blocked representation where each A x B section of the image is translated, or a representation where the image is represented by rows of pixels. This size of the section is determined by the program at runtime, and is optimized so that every block contains as close to 64KB of data as possible. The data structure to be used can be selected when the program is invoked.",
+    "download_link": "code/40image_src.zip",
+    "link_text": "Download Partial Source"
+},
+{
+    "title": "This website",
+    "tag": "Built from the ground up",
+    "description": "I built this site itself as a personal project to continue improving my ability to develop websites and create content independently from a school course. This site is styled with Bootstrap, and uses the React framework under the hood.",
+    "download_link": "code/website_source.zip",
+    "link_text": "Download Partial Source"
+},
+{
+    "title": "Let's share pizza",
+    "tag": "Connecting you with other nearby people who could also use a slice",
+    "description": "As the final group project for COMP 20, a web programming course, my group designed and created a pizza sharing site. The app uses your current location, and seeks any nearby active orders on the site. Local pizza shops are retrieved using the Google Places API, and displayed on the map. After creating an order, you can sign up to be notified by text when other people connect to it. Once a full pizza has been 'crowd-sourced,' all parties are alerted so that they can continue the transaction. While still in beta, the site itself is functional.",
+    "download_link": "https://lets-share-pizza.herokuapp.com",
+    "link_text": "Visit the site"
+},
+{
+    "title": "Image rotations",
+    "tag": "Performs various rotational operations on a given image",
+    "description": "This program rotates the provided image. It is designed to use two different data structures to store the image and perform the translations; either a blocked representation where each A x B section of the image is translated, or a representation where the image is represented by rows of pixels. This size of the section is determined by the program at runtime, and is optimized so that every block contains as close to 64KB of data as possible. The data structure to be used can be selected when the program is invoked.",
+    "download_link": "code/locality.zip",
+    "link_text": "Download Partial Source"
+},
+{
+    "title": "Directory searching",
+    "tag": "Indexes the given directory into a massive Try structure, and then searches through this index",
+    "description": "As the final project for the Data Structures course at Tufts, students were tasked with imitating the functionality of the built-in grep command. Each student created a program that would index the files in a given directory, and then return any lines in this directory that matched the string that the user queried.",
+    "download_link": "code/directory_search.zip",
+    "link_text": "Download Partial Source"
+}]

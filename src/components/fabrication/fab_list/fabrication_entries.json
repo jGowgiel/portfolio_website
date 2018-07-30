@@ -1,0 +1,38 @@
+[{
+    "title": "3D printed, hand assembled quartz watch",
+    "tag": "Using a Markforged 3D printer, I created a watch from scratch featuring a fully 3D printed case and strap",
+    "description": "I created the 3D model for this project in Fusion360, and the final case was printed using the Markforged Mark Two. The watch itself consists of the outer case, a screw-in back, and stock watch pieces (the internal movement of the watch, a separate crown, the watch face, hour and minute hands, and a domed mineral crystal).",
+    "image_srcs": [
+        "images/watch_with_strap.png",
+        "images/watch_body.JPG",
+        "images/case_1_render_2.png",
+        "images/case_1_render_1.png"
+    ]
+},
+{
+    "title": "Elephant card",
+    "tag": "Using a hand sculpted 3D model, I created a two-dimensional piece that can be cut apart and re-assembled into a three-dimensional elephant",
+    "description": "For this project, I chose an older 3D model that I sculpted on a Wacom tablet to be 3D printed. By repurposing this model, I made a version that could either be printed in thin layers, or laser cut as a flat object. The final product is the size of a credit card. After being laser cut or printed , the flat piece can be cut apart and slotted together to make an elephant.",
+    "image_srcs": [
+        "images/Elecard_images/IMG_0544.jpeg",
+        "images/Elecard_images/Cutelephant_2.png",
+        "images/Elecard_images/slice-1.png",
+        "images/Elecard_images/print.png"
+    ]
+},
+{
+    "title": "Seasons",
+    "tag": "A high resolution, low-poly piece that represents the changing seasons in a small amount of space",
+    "description": "I worked on this project over the summer after my senior year to continue developing my skills in 3DS Max. Using a low-poly style that I had grown to love, I created an animated representation of each of the four seasons. These four sections were contained within the same scene, and a few incorporated different physics and particle effects that I had experimented with.",
+    "image_srcs": [
+        "images/Overwatch1.jpg",
+        "images/Summer1.jpg",
+        "images/Fall1.jpg",
+        "images/Winter1.jpg",
+        "images/Spring1.jpg"
+    ],
+    "video_srcs": [
+        "https://www.youtube.com/embed/tPtoYR0GzyU",
+        "https://www.youtube.com/embed/U8fFQ0lWdDw"
+    ]
+}]
