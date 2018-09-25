@@ -34,7 +34,7 @@ class Home extends React.Component {
 
                     <div className="container-fluid col py-5 px-3">
                         <div className="py-5 px-3">
-                            <img src="images/jarod_g.jpg" className="img-fluid rounded" alt="Self Image" />
+                            <img src="images/IMG_5450.jpg" className="img-fluid rounded" alt="Self Image" />
                         </div>
                     </div>
                 </div>
