@@ -21,7 +21,7 @@ class Programming extends React.Component {
                     <div className="row pt-4 pb-0 mb-0">
                         <div style={{ background:'transparent' }} className="jumbotron pb-0 mb-0">
                             <p className="lead">
-                                Most of the projects represented below were produced for the 
+                                Many of the projects below were created for the 
                                 COMP40 course at Tufts, which focuses on machine structure and 
                                 improving general programming skill. Much of this work is collaborative, 
                                 and each partner has been credited in the relevant source files for every project.

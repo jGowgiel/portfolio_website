@@ -1,15 +1,15 @@
 [{
+    "title": "This website",
+    "tag": "Built from the ground up",
+    "description": "I built this site itself as a personal project to continue improving my ability to develop websites and create content independently from a school course. This site is styled with Bootstrap, and uses the React framework under the hood.",
+    "download_link": "https://github.com/jGowgiel/portfolio_website",
+    "link_text": "View Source on Github"
+},
+{
     "title": "Image compression and decompression",
     "tag": "Performs various rotational operations on a given image",
     "description": "This program rotates the provided image. It is designed to use two different data structures to store the image and perform the translations; either a blocked representation where each A x B section of the image is translated, or a representation where the image is represented by rows of pixels. This size of the section is determined by the program at runtime, and is optimized so that every block contains as close to 64KB of data as possible. The data structure to be used can be selected when the program is invoked.",
     "download_link": "code/40image_src.zip",
-    "link_text": "Download Partial Source"
-},
-{
-    "title": "This website",
-    "tag": "Built from the ground up",
-    "description": "I built this site itself as a personal project to continue improving my ability to develop websites and create content independently from a school course. This site is styled with Bootstrap, and uses the React framework under the hood.",
-    "download_link": "code/website_source.zip",
     "link_text": "Download Partial Source"
 },
 {

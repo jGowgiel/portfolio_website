@@ -34,7 +34,7 @@ class ProgramItem extends React.Component {
                     <hr className="my-4" />
                         <p>{this.props.description}</p>
 
-                    <p><a className={styles["download_button"]} href={this.props.download_link} role="button" download>{this.props.link_text}</a></p>
+                    <p><a className={styles["download_button"]} href={this.props.download_link} target="_blank" role="button" download>{this.props.link_text}</a></p>
                 </div>
             </div>
         </div>

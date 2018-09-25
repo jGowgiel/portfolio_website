@@ -14,8 +14,8 @@ class Contact extends React.Component {
         return (
             <div className='around-nav'>
                 <div class="container-fluid p-4">
-                    <div class="h4 font-weight-normal">
-                        <p>Find me on <a href="https://www.linkedin.com/in/jarod-gowgiel-2819a5119/" target="_blank">LinkedIn</a></p>
+                    <div class="h5 font-weight-normal">
+                        <p>Find me on <a href="https://www.linkedin.com/in/jarod-gowgiel-2819a5119/" target="_blank">LinkedIn</a>!</p>
                         <p>Shoot me an e-mail:</p>
                     </div>
                     <div class="row">
