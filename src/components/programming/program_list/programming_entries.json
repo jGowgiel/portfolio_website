@@ -3,7 +3,7 @@
     "tag": "Search for the next time your favorite food will be at Tufts",
     "description": "This site lets visitors search for whatever food they want, and then displays the upcoming meal periods during which that food will be available at various Tufts dining halls. The site itself is written in Python, using the Flask framework.",
     "download_link": "https://tufts-food-finder.herokuapp.com",
-    "link_text": "Visit site"
+    "link_text": "Visit the site"
 },
 {
     "title": "This website",
