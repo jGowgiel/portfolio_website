@@ -68,7 +68,7 @@ class FabItem extends React.Component {
         return (
             <div className="container">
                 <div className="row">
-                    <div style={styles["background"]} className="jumbotron pb-0">
+                    <div style={styles["background"]} className="jumbotron pb-4">
                         <div className="row">
                             <div className="col-10">
                                 <h1 className="display-4">{this.props.title}</h1>

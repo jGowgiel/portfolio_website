@@ -11,7 +11,7 @@ class ProgramItem extends React.Component {
         var styles = {
             "background": {background:'transparent'},
             "top_button": "btn btn-primary btn-lg",
-            "download_button": "btn btn-outline-info"
+            "download_button": "btn btn-outline-primary"
         }
         if (this.props.index % 2 == 1) {
             styles["background"] = {background:'#cceeff'};
@@ -19,9 +19,9 @@ class ProgramItem extends React.Component {
             styles["download_button"] = "btn btn-outline-dark"
         }
         return (
-        <div className="container-fluid">
+        <div className="container">
             <div className="row">
-                <div style={styles["background"]} className="jumbotron pb-0">
+                <div style={styles["background"]} className="jumbotron pb-4">
                     <div className="row">
                         <div className="col-10">
                             <h1 className="display-4">{this.props.title}</h1>
