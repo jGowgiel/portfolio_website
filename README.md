@@ -1,6 +1,6 @@
 A multi-page Bootstrap enabled React App
 
-This repository contains the source code for my portfolio/project personal site, hosted at [jarodgowgiel.com](www.jarodgowgiel.com)
+This repository contains the source code for my portfolio/project personal site, hosted at [jarodgowgiel.com](http://www.jarodgowgiel.com)
 
 Scripts:
 
