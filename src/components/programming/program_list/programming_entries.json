@@ -1,11 +1,4 @@
 [{
-    "title": "Tufts Food Finder",
-    "tag": "Search for the next time your favorite food will be at Tufts",
-    "description": "This site lets visitors search for whatever food they want, and then displays the upcoming meal periods during which that food will be available at various Tufts dining halls. The site itself is written in Python, using the Flask framework.",
-    "download_link": "https://tufts-food-finder.herokuapp.com",
-    "link_text": "Visit the site"
-},
-{
     "title": "This website",
     "tag": "Built from the ground up",
     "description": "I built this site itself as a personal project to continue improving my ability to develop websites and create content independently from a school course. This site is styled with Bootstrap, and uses the React framework under the hood.",
