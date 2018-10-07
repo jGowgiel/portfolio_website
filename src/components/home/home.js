@@ -26,7 +26,7 @@ class Home extends React.Component {
                         <div className="h4 py-3">Hi there!</div>
                         <div className="h4 font-weight-normal">
                             <p>My name's Jarod - I'm an aspiring software developer and a current computer science student at Tufts University with a strong background in fabrication and 3D design.</p>
-                            <p>The bulk of my programming experience is in C/C++, Swift, and Javascript.</p>
+                            <p>The bulk of my programming experience is in C/C++, Swift, Python, and Javascript.</p>
                             <p>Please, feel free to explore around using the links at the top, and get in touch through the contact section if you're interested in talking with me about my work, my projects, or my job experience</p>
                         </div>
 
