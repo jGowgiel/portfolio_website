@@ -66,14 +66,14 @@ class FabItem extends React.Component {
         }
 
         return (
-            <div className="container">
+            <div className="container-fluid">
                 <div className="row">
                     <div style={styles["background"]} className="jumbotron pb-4">
                         <div className="row">
-                            <div className="col-10">
+                            <div className="col-md-10">
                                 <h1 className="display-4">{this.props.title}</h1>
                             </div>
-                            <div className="col-2">
+                            <div className="col-md-2">
                                 <a className={styles["top_button"]} href="fabrication#" role="button">Top</a>
                             </div>
                         </div>

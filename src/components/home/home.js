@@ -22,7 +22,7 @@ class Home extends React.Component {
             <div className='around-nav'>
                 <img src="images/OverwatchBanner.jpg" className="img-fluid" alt="Overwatch Image" />
                 <div className="row">
-                    <div className="container-fluid py-3 m-3 text-center col-8">
+                    <div className="container-fluid py-3 m-3 text-center col-md-8">
                         <div className="h4 py-3">Hi there!</div>
                         <div className="h4 font-weight-normal">
                             <p>My name's Jarod - I'm an aspiring software developer and a current computer science student at Tufts University with a strong background in fabrication and 3D design.</p>
@@ -32,7 +32,7 @@ class Home extends React.Component {
 
                     </div>
 
-                    <div className="container-fluid col py-5 px-3">
+                    <div className="container-fluid col-md py-5 px-3">
                         <div className="py-5 px-3">
                             <img src="images/jarod_g.jpg" className="img-fluid rounded" alt="Self Image" />
                         </div>
