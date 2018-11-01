@@ -6,6 +6,13 @@
     "link_text": "View source on Github"
 },
 {
+    "title": "Tufts Food Finder",
+    "tag": "Find out when your favorite food will be back in a Tufts dining hall",
+    "description": "This site provides an interface for Tufts students (and any other interested people) to search through the Tufts dining menus for specific foods. After searching for a food, users are shown any matching menu items, as well as the location and time they will be available next.",
+    "download_link": "https://tufts-food-finder.herokuapp.com/",
+    "link_text": "Visit the site"
+},
+{
     "title": "Image compression and decompression",
     "tag": "Performs various rotational operations on a given image",
     "description": "This program rotates the provided image. It is designed to use two different data structures to store the image and perform the translations; either a blocked representation where each A x B section of the image is translated, or a representation where the image is represented by rows of pixels. This size of the section is determined by the program at runtime, and is optimized so that every block contains as close to 64KB of data as possible. The data structure to be used can be selected when the program is invoked.",
