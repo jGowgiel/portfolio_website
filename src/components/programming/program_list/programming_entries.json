@@ -1,4 +1,11 @@
 [{
+    "title": "FEC Donation Aggregator",
+    "tag": "Improving the transparency of individual donation data",
+    "description": "In a foray into data analysis, I wrote a custom program for the Tufts Daily to better analyze donation information downloaded from the Federal Election Commission. When run, this program takes all of the donation data that can be found in a given file, often with many individual donations to the same committees, and adds them all together in the output so that they can be better analyzed and interpreted. More information can be found in the README file of the Github repository linked below.",
+    "download_link": "https://github.com/jGowgiel/fec-donation-aggregator",
+    "link_text": "View source on Github"
+},
+{
     "title": "This website",
     "tag": "Built from the ground up",
     "description": "I built this site itself as a personal project to continue improving my ability to develop websites and create content independently from a school course. This site is styled with Bootstrap, and uses the React framework under the hood.",
