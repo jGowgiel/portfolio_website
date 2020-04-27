@@ -1,4 +1,11 @@
 [{
+    "title": "Sisters Coffee Company website redesign",
+    "tag": "Helping a local coffee company reclaim their web presence",
+    "description": "Over my winter break in 2018, I worked with a coffee company form Sisters, OR to help them update their Squarespace website. While the site had been set up with all the bells and whistles of a custom site, while still being hosted on Squarespace, the company now needed a version that they could work with in the future and update more easily. To that end, I worked with the owners to move the entire site to a new less-custom Squarespace site, and to redesign the website in the process. Additionally, I was coordinated the process of transitioning the old domains to point at the new and improved site. Over the course of the next year (2018-2019), this redesign led to a 33% increase in online sales for the company.",
+    "download_link": "https://www.sisterscoffee.com",
+    "link_text": "Visit the site"
+},
+{
     "title": "FEC Donation Aggregator",
     "tag": "Improving the transparency of individual donation data",
     "description": "In a foray into data analysis, I wrote a custom program for the Tufts Daily to better analyze donation information downloaded from the Federal Election Commission. When run, this program takes all of the donation data that can be found in a given file, often with many individual donations to the same committees, and adds them all together in the output so that they can be better analyzed and interpreted. More information can be found in the README file of the Github repository linked below.",
@@ -8,7 +15,7 @@
 {
     "title": "This website",
     "tag": "Built from the ground up",
-    "description": "I built this site itself as a personal project to continue improving my ability to develop websites and create content independently from a school course. This site is styled with Bootstrap, and uses the React framework under the hood.",
+    "description": "I built this site itself as a personal project to continue improving my ability to develop websites and create content independently. This site is styled with Bootstrap, and uses the React framework under the hood, and I've been coming back to update it periodically. While the core frame was built during my senior year of college, I'm actively reworking and improving the site as needed and as time allows.",
     "download_link": "https://github.com/jGowgiel/portfolio_website",
     "link_text": "View source on Github"
 },

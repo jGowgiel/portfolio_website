@@ -27,7 +27,7 @@ class ProgramItem extends React.Component {
                             <h1 className="display-4">{this.props.title}</h1>
                         </div>
                         <div className="col-md-2">
-                            <a className={styles["top_button"]} href="programming#" role="button">Top</a>
+                            {this.props.index != 0 && <a className={styles["top_button"]} href="programming#" role="button">Top</a>}
                         </div>
                     </div>
                         <p className="lead">{this.props.tag}</p>

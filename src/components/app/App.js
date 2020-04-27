@@ -29,7 +29,7 @@ class App extends Component {
             <div className="container-fluid text-center">
                 <div className="font-weight-light py-3">
                     <p>Created by Jarod Gowgiel</p>
-                    <p>Last updated: October 31, 2018</p>
+                    <p>Last updated: April 27, 2020</p>
                 </div>
             </div>
 
