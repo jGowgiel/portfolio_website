@@ -21,7 +21,7 @@ class Contact extends React.Component {
                     <div className="row">
                         <div className="col-1"></div>
                         <div className="col">
-                            <p className="h5 font-weight-normal"><a href="mailto:jarod.gowgiel@gmail.com" target="_blank" rel="noopener noreferrer">jarod.gowgiel@tufts.edu</a></p>
+                            <p className="h5 font-weight-normal"><a href="mailto:jarod.gowgiel@gmail.com" target="_blank" rel="noopener noreferrer">jarod.gowgiel@gmail.com</a></p>
                         </div>
                     </div>
 
